@@ -23,7 +23,6 @@
         "bootstrap-daterangepicker": "^3.0.3",
         "bootstrap-slider": "^10.4.2",
         "bootstrap-timepicker": "^0.5.2",
-        "bootstrap3-wysihtml5-commonjs": "0.0.4",
         "chart.js": "^2.7.3",
         "cross-env": "^5.1",
         "datatables.net": "^1.10.19",
