@@ -1,4 +1,4 @@
-# <center><img src="https://png2.kisspng.com/sh/a4a6154f2227b36c4ab994ce82898595/L0KzQYm3V8A5N6l1e5H0aYP2gLBuTfJie5poRdN9dHXxhLr2jr11d5xqhp9udHjogrb8jb1keqp1jNHsdYL1dbBqmb1jepJ7RdN9dHXxhLr2jr02amU2edQ7ZnW6R4PpV74xOGMAS6M5MEG4Q4K3U8A0OWoATKo3cH7q/kisspng-basic-attention-token-ethereum-cryptocurrency-brav-attention-5b41ab2fe772b7.002931001531030319948.png" height="50px" style="vertical-align: middle">TriLara</center>
+# <p align="center"><img src="https://png2.kisspng.com/sh/a4a6154f2227b36c4ab994ce82898595/L0KzQYm3V8A5N6l1e5H0aYP2gLBuTfJie5poRdN9dHXxhLr2jr11d5xqhp9udHjogrb8jb1keqp1jNHsdYL1dbBqmb1jepJ7RdN9dHXxhLr2jr02amU2edQ7ZnW6R4PpV74xOGMAS6M5MEG4Q4K3U8A0OWoATKo3cH7q/kisspng-basic-attention-token-ethereum-cryptocurrency-brav-attention-5b41ab2fe772b7.002931001531030319948.png" height="50px" style="vertical-align: middle">TriLara</p>
 
 <br>
 <p align="center">
@@ -15,7 +15,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
----
+<hr>
 
 # About TriLara
 
