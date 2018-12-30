@@ -9,9 +9,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/adminlte.svg" alt="AdminLTE logo" style="vertical-align: middle" height=72>
 </p>
 
-<p align="center">
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
+[![](https://img.shields.io/github/license/ImCreator2/TriLara.svg)](https://github.com/ImCreator2/TriLara/blob/master/LICENSE)
 
 # About TriLara
 
