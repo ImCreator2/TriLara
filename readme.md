@@ -9,6 +9,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/adminlte.svg" alt="AdminLTE logo" style="vertical-align: middle" height=72>
 </p>
 
+[![Build Status](https://travis-ci.com/ImCreator2/TriLara.svg?branch=master)](https://travis-ci.com/ImCreator2/TriLara)
 [![](https://img.shields.io/github/license/ImCreator2/TriLara.svg)](https://github.com/ImCreator2/TriLara/blob/master/LICENSE)
 
 # About TriLara
