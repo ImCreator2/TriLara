@@ -50,7 +50,7 @@
         "fastclick": "^1.0.6",
         "fullcalendar": "^3.9.0",
         "icheck": "^1.0.2",
-        "inputmask": "^4.0.5",
+        "inputmask": "^4.0.6",
         "ion-rangeslider": "^2.3.0",
         "ionicons": "^4.5.1",
         "jquery": "^3.2",
@@ -67,11 +67,11 @@
         "pace-progressbar": "^1.0.8",
         "popper.js": "^1.14.6",
         "resolve-url-loader": "^2.3.1",
-        "sass": "^1.15.3",
+        "sass": "^1.16.0",
         "sass-loader": "^7.1.0",
         "select2": "^4.0.6-rc.1",
         "vue": "^2.5.21",
-        "vue-loader": "^15.5.0",
+        "vue-loader": "^15.5.1",
         "vue-template-compiler": "^2.5.21"
     },
     "dependencies": {}

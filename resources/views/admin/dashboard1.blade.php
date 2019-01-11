@@ -1,4 +1,5 @@
 @extends('admin.layouts.app')
+@section('content_title', 'Dashboard')
 
 @section('main-content')
 <div class="container-fluid" xmlns="">
@@ -6,7 +7,7 @@
                 <div class="row">
                     <div class="col-lg-3 col-6">
                         <!-- small box -->
-                        <div class="small-box bg-info">
+                        <div class="small-box bg-info-gradient">
                             <div class="inner">
                                 <h3>150</h3>
 
@@ -21,7 +22,7 @@
                     <!-- ./col -->
                     <div class="col-lg-3 col-6">
                         <!-- small box -->
-                        <div class="small-box bg-success">
+                        <div class="small-box bg-success-gradient">
                             <div class="inner">
                                 <h3>53<sup style="font-size: 20px">%</sup></h3>
 
@@ -36,7 +37,7 @@
                     <!-- ./col -->
                     <div class="col-lg-3 col-6">
                         <!-- small box -->
-                        <div class="small-box bg-warning">
+                        <div class="small-box bg-warning-gradient">
                             <div class="inner">
                                 <h3>44</h3>
 
@@ -51,7 +52,7 @@
                     <!-- ./col -->
                     <div class="col-lg-3 col-6">
                         <!-- small box -->
-                        <div class="small-box bg-danger">
+                        <div class="small-box bg-danger-gradient">
                             <div class="inner">
                                 <h3>65</h3>
 
