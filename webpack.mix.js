@@ -14,6 +14,7 @@ const mix = require('laravel-mix');
 mix.js('resources/js/app.js', 'public/js')
    .sass('resources/sass/app.scss', 'public/css');
 mix.copy('node_modules/admin-lte/dist/css/adminlte.css', 'public/css/adminlte.css')
+    .copy('node_modules/admin-lte/dist/js/adminlte.js', 'public/js/adminlte.js')
     .copy('node_modules/jquery-slimscroll/jquery.slimscroll.min.js', 'public/plugins/slimScroll/jquery.slimscroll.min.js')
     .copy('node_modules/jquery-knob/js/jquery.knob.js', 'public/plugins/knob/jquery.knob.js')
     .copy('node_modules/morris.js/morris.css', 'public/plugins/morris/morris.css')
@@ -30,9 +31,11 @@ mix.copy('node_modules/admin-lte/dist/css/adminlte.css', 'public/css/adminlte.cs
     .copy('node_modules/bootstrap-daterangepicker/daterangepicker.css', 'public/plugins/daterangepicker/daterangepicker-bs3.css')
     .copy('node_modules/bootstrap-daterangepicker/daterangepicker.js', 'public/plugins/daterangepicker/daterangepicker.js')
     .copy('node_modules/jquery-sparkline/jquery.sparkline.min.js', 'public/plugins/sparkline/jquery.sparkline.min.js')
-    .copy('node_modules/fastclick/lib/fastclick.js', 'public/plugins/fastclick/fastclick.js');
+    .copy('node_modules/fastclick/lib/fastclick.js', 'public/plugins/fastclick/fastclick.js')
+    .copy('node_modules/icheck/icheck.min.js', 'public/plugins/icheck/icheck.min.js');
 mix.copyDirectory('node_modules/admin-lte/dist/img', 'public/img')
     .copyDirectory('node_modules/admin-lte/dist/js/pages', 'public/dist/js/pages')
     .copyDirectory('node_modules/ionicons/dist/css', 'public/plugins/ionicons/css')
-    .copyDirectory('node_modules/ionicons/dist/fonts', 'public/plugins/ionicons/fonts');
+    .copyDirectory('node_modules/ionicons/dist/fonts', 'public/plugins/ionicons/fonts')
+    .copyDirectory('node_modules/icheck/skins', 'public/plugins/icheck/skins');
 

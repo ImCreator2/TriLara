@@ -570,9 +570,7 @@ Calendar
 
     <script src="dist/js/pages/dashboard.js"></script>
     <script>
-        $(function () {
             $('.direct-chat-messages').slimScroll();
             //$('.table-condensed').addClass('table');
-        })
     </script>
 @endsection

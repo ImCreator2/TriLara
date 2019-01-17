@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 @section('htmlheader')
     @include('admin.layouts.partials.htmlheader')
 @show
 
 <body class="hold-transition sidebar-mini">
-<div class="wrapper">
+<div id="app" class="wrapper">
 
     @include('admin.layouts.partials.mainheader')
 

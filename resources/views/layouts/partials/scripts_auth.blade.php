@@ -1,10 +1,5 @@
-<!-- AdminLTE App -->
-<!-- Compiled app javascript -->
-<script src="{{ url (mix('/js/app.js')) }}"></script>
-<!-- jQuery ( Already included in app.js above ) -->
-{{--<script src="plugins/jquery/jquery.min.js"></script>--}}
-{{--<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>--}}
-<script src="{{ asset('/js/adminlte.js') }}"></script>
+<!-- jQuery -->
+<script src="plugins/jquery/jquery.min.js"></script>
 <!-- jQuery UI 1.11.4 -->
 <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
 <!-- Resolve conflict in jQuery UI tooltip with Bootstrap tooltip -->
@@ -12,7 +7,7 @@
     $.widget.bridge('uibutton', $.ui.button)
 </script>
 <!-- Bootstrap 4 -->
-{{--<script src="plugins/bootstrap/js/bootstrap.bundle.min.js"></script>--}}
+<script src="plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
 <!-- Morris.js charts -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/raphael/2.1.0/raphael-min.js"></script>
 <script src="plugins/morris/morris.min.js"></script>
@@ -29,13 +24,14 @@
 <!-- datepicker -->
 <script src="plugins/datepicker/bootstrap-datepicker.js"></script>
 <!-- Bootstrap WYSIHTML5 -->
-{{--<script src="plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js"></script>--}}
+<script src="plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js"></script>
 <!-- Slimscroll -->
 <script src="plugins/slimScroll/jquery.slimscroll.min.js"></script>
+<script type="application/javascript">
+    $(".sidebar").slimScroll();
+</script>
 <!-- FastClick -->
 <script src="plugins/fastclick/fastclick.js"></script>
-<script>
-    $(".sidebar").slimScroll({
-        height: $(".sidebar").outerHeight(true)
-    });
-</script>
+<!-- AdminLTE App -->
+<!-- Compiled app javascript -->
+<script src="{{ url (mix('/js/app.js')) }}"></script>

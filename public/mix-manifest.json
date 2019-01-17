@@ -2,6 +2,7 @@
     "/js/app.js": "/js/app.js",
     "/css/app.css": "/css/app.css",
     "/css/adminlte.css": "/css/adminlte.css",
+    "/js/adminlte.js": "/js/adminlte.js",
     "/plugins/slimScroll/jquery.slimscroll.min.js": "/plugins/slimScroll/jquery.slimscroll.min.js",
     "/plugins/knob/jquery.knob.js": "/plugins/knob/jquery.knob.js",
     "/plugins/morris/morris.css": "/plugins/morris/morris.css",
@@ -14,5 +15,6 @@
     "/plugins/daterangepicker/daterangepicker-bs3.css": "/plugins/daterangepicker/daterangepicker-bs3.css",
     "/plugins/daterangepicker/daterangepicker.js": "/plugins/daterangepicker/daterangepicker.js",
     "/plugins/sparkline/jquery.sparkline.min.js": "/plugins/sparkline/jquery.sparkline.min.js",
-    "/plugins/fastclick/fastclick.js": "/plugins/fastclick/fastclick.js"
+    "/plugins/fastclick/fastclick.js": "/plugins/fastclick/fastclick.js",
+    "/plugins/icheck/icheck.min.js": "/plugins/icheck/icheck.min.js"
 }
